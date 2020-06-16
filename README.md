@@ -2,7 +2,7 @@
 
 # Bio Webpage Template
 This repo is a template for a basic bio webpage that you can use as a starting
-point for your own. Sites like linktree are a simple way to keep all your links
+point for your own. Sites like [Linktree](https://linktr.ee/) are a simple way to keep all your links
 in one place but fall short if you’d like any customization or to use your
 own custom domain. Using [Github Pages](https://pages.github.com/) and this
 template, you can create your own with a custom domain in just a few minutes.
