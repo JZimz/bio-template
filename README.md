@@ -1,3 +1,5 @@
+<img width="500" src="assets/example.png"> 
+
 # Bio Webpage Template
 This repo is a template for a basic bio webpage that you can use as a starting
 point for your own. Sites like linktree are a simple way to keep all your links
